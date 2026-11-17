@@ -1,4 +1,4 @@
-# IS 218 portfolio
+# IS 373 portfolio
 
 Live site: https://dhruvi0805.github.io/portfolio_IS218/
 
