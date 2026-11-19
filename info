@@ -1,0 +1,152 @@
+Dhruvi Malusare
+UX Researcher & Product Designer
+
+Optimizing the intersection of user experience and business operations by using data to turn friction into fluid, human-centric solutions.
+
+NJIT
+Major: Human Computer Interaction
+Minor: Business
+
+I work at the intersection of design, systems thinking, and operations analysis. I specialize in identifying inefficiencies in workflows and rebuilding processes from the ground up to make them more efficient, scalable, and intuitive.
+
+I approach problems by first breaking down how a system actually functions, then redesigning it to remove friction and improve clarity. In previous roles, I've built and optimized Excel-based workflows and operational systems to streamline processes and improve day-to-day efficiency.
+
+Alongside my operations experience, I bring a strong foundation in UX and product design, allowing me to translate complex systems into user-centered experiences. I'm particularly interested in roles in UX research, UX engineering, product design, and product/operations management where I can combine systems thinking with design to build better tools and workflows.
+
+UX Research · Product Design · Prototyping · Figma · Accessibility · Motion Design
+
+Work Experience
+
+Research Assistant
+NJIT Department of Informatics
+February – Present
+Supporting research initiatives with informatics faculty.
+
+UX Designer
+Uplity AI
+February – April
+Product and UX design collaboration for an AI-focused product team.
+
+Recognition
+
+Student Staff of the Year 2025-2026
+NJIT Highlander Awards
+
+Optimized 3+ workflows for NJIT NSO
+Increased Social Media presence and engagement
+Led a team of 40 Orientation Leaders
+Handled team and event logistics
+
+Funny Money — SIGCHI Design Jam 2026 Winning Project
+1st Place Winner
+SIGCHI Design Jam 2026
+
+LinkedIn
+https://www.linkedin.com/in/dhruvi-malusare/
+
+Résumé
+https://drive.google.com/file/d/10_pHhxFBIbTQ-n1xCYGfh-hUyLZqMB74/view?usp=sharing
+
+Projects
+
+Museum Timeline
+
+https://dhruvi0805.github.io/final_portfolio/pages/work-museum.html
+
+Museum Timeline is a static web application that guides visitors through major art movements chronologically.
+
+Art history resources online are dense, poorly structured, and rarely designed for casual exploration. Museum Timeline makes art history discoverable — letting visitors browse chronologically, dive into a single movement, or compare two eras side-by-side.
+
+Timeline, Era Detail, and Compare — three distinct interaction modes covering discovery, depth, and analysis.
+
+FunnyMoney
+
+https://dhruvi0805.github.io/final_portfolio/pages/work-funnymoney.html
+
+1st · SIGCHI DESIGN JAM 2026
+
+45 · SURVEY PARTICIPANTS
+
+Mixed-methods study spanning majors, academic years, and residency statuses to capture a broad behavioral picture.
+
+Financial behavior, social behavior, gamification, and emotional motivation — synthesized into one product concept.
+
+Gen Z students understand that financial planning matters, but consistently disengage from budgeting tools that feel corporate, intimidating, and restrictive. Traditional apps overwhelm users with charts and treat spending as a problem — not a lifestyle.
+
+Reframe budgeting as a socially connected lifestyle system — emotionally intelligent, passively tracked, and gamified — so financial awareness becomes motivating rather than anxiety-inducing.
+
+Semi-structured interviews explored how students currently manage money, why budgeting tools fail to retain engagement, and what motivates long-term app usage.
+
+The platform automatically tracks spending and transforms transactions into personalized insights — without punishing users for spending money.
+
+Small wins and achievable goals — visible community progress and social accountability tied to friends and shared financial targets.
+
+Users override AI category labels — corrections are stored in a personal database and improve future categorization automatically over time.
+
+WayFinding
+
+https://dhruvi0805.github.io/final_portfolio/pages/work-wayfinding.html
+
+Students often struggle to navigate the library, leading to frustration, wasted time, and underutilization of resources. The library lacks an accessible wayfinding system integrated with its existing database.
+
+Create a solution that improves physical navigation in the library while increasing efficiency and accessibility for all users.
+
+Field research was conducted directly in the library environment — observing real navigation patterns, interviewing students mid-session, and mapping the most common points of confusion and abandonment.
+
+Book search and guided routing from any point in the library — scan a QR code to transfer your route to your phone instantly.
+
+Bluetooth beacon network provides turn-by-turn routing inside the library — no GPS signal required.
+
+Proximity-based haptic feedback provides non-visual navigation cues for users with visual impairments — designed for one-handed use.
+
+Routing engine and beacon management layer connects to the library's existing catalog database — no manual location tagging required.
+
+70% · FASTER NAVIGATION
+
+Average navigation time reduced to ~9.5 minutes across all user testing sessions.
+
+64% · EASE OF USE
+
+Self-reported ease-of-use improvement across all testing sessions with real library users.
+
+ResearchGate
+
+https://dhruvi0805.github.io/final_portfolio/pages/work-researchgate.html
+
+Students — especially high schoolers — often lack awareness about research opportunities, creating an information gap between them and the research community. Researchers also struggle to reach younger audiences efficiently.
+
+Create a service that spreads awareness about research opportunities and bridges the information gap between students and researchers at every level.
+
+73% · AWARENESS GAP
+
+Of surveyed college students were unaware of research opportunities available to them in high school.
+
+5 · STAKEHOLDER INTERVIEWS
+
+Identified 4 core barriers: awareness, resources, platform access, and time — across researchers and students.
+
+Personalized research event recommendations based on student interests and university affiliations — filterable by field and time commitment.
+
+Researchers use an AI helper to draft and publish events in minutes — reducing the friction of outreach for time-constrained faculty.
+
+Students follow labs and researchers directly — building ongoing relationships beyond single events and enabling long-term engagement.
+
+Completion badges and follow-up surveys surface student engagement data for institutions — making ROI visible for continued investment.
+
+Thrive
+
+https://dhruvi0805.github.io/final_portfolio/pages/work-thrive.html
+
+Many plant owners struggle with keeping their plants alive due to a lack of awareness of specific care requirements for different species or misdiagnosed issues — leading to frustration, wasted time, and low satisfaction.
+
+Create a solution to reduce diagnosis time and improve user adherence to a plant care schedule through intelligent guidance and reminders.
+
+Research was conducted through in-depth interviews with plant owners and contextual observation of plant care routines at home — combined with secondary literature on common care failures.
+
+Add and organize plants with species-specific care profiles — full history and environment recommendations in one place.
+
+Real-time photo scan identifies plant diseases and delivers treatment recommendations — with direct links to purchase solutions in the integrated storefront.
+
+Personalized watering, fertilizing, and care task lists with smart reminders — weekly progress view keeps users consistent.
+
+Curated care guides and tips organized by plant type — discoverable browsing for new and experienced plant owners.
