@@ -2,7 +2,7 @@
 
 **[Open the live VitePress documentation](https://dhruvi0805.github.io/individual_portfolio_/)**
 
-**[Review 2 portfolio draft and project record](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html)** · [Case studies](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#selected-work) · [Résumé draft](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#resume-draft)
+**[Live Portfolio](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html)** · [Case studies](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#selected-work) · [Résumé draft](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#resume-draft)
 
 ## Review 1 · Career research
 
