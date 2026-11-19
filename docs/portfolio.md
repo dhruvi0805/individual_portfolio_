@@ -2,7 +2,7 @@
 
 I study Human–Computer Interaction and business at NJIT. I’m looking for early-career work in UX research, product design, or AI-enabled operations. My work includes testing product decisions with users and building reporting and automation workflows for operations teams.
 
-[GitHub profile](https://github.com/dhruvi0805) · [GitHub Pages profile](https://dhruvi0805.github.io/) · [LinkedIn and contact](https://www.linkedin.com/in/dhruvi-malusare/) · [Portfolio repository](https://github.com/dhruvi0805/individual_portfolio_) · [Résumé draft](#resume-draft)
+[GitHub profile](https://github.com/dhruvi0805) · [LinkedIn and contact](https://www.linkedin.com/in/dhruvi-malusare/) · [Portfolio repository](https://github.com/dhruvi0805/individual_portfolio_) · [Résumé draft](#resume-draft)
 
 ## Selected work
 
@@ -45,7 +45,7 @@ I study Human–Computer Interaction and business at NJIT. I’m looking for ear
 
 ## Review 2 check
 
-Try both presentation options using the same task. Find what I contributed to Bench & Bolt, open the merged change, then find where NeuroNet stores attempts. Record which layout made the evidence easier to find. Peer retest pending.
+Try both presentation options using the same task. Find what I contributed to Bench & Bolt, open the merged change, then find where NeuroNet stores attempts. Record which layout made the evidence easier to find. Browser check: arrow keys switched between both previews and kept the same two case studies visible. The résumé anchor resolved. Peer retest and narrow-screen checks are pending.
 
 ## Portfolio plan
 
