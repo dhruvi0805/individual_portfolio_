@@ -1,6 +1,6 @@
 # Individual portfolio
 
-Live site: https://dhruvi0805.github.io/portfolio_IS218/
+**[Open the live VitePress documentation](https://dhruvi0805.github.io/individual_portfolio_/)**
 
 ## Review 1 · Career research
 
