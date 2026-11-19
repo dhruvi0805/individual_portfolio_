@@ -35,8 +35,8 @@ description: Selected work in UX research, product design, and operations by Dhr
       <h2 id="dm-about">About Me</h2>
       <div class="dm-resume-grid">
         <div>
-          <h3>Major: Human Computer Interaction</h3>
-          <p>Minor: Business<br></p>
+          <h3>NJIT</h3>
+          <p>Major: Human Computer Interaction<br>Minor: Business</p>
         </div>
         <div>
           <p>I work at the intersection of design, systems thinking, and operations analysis. I specialize in identifying inefficiencies in workflows and rebuilding processes from the ground up to make them more efficient, scalable, and intuitive.</p>
