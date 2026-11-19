@@ -2,6 +2,8 @@
 
 **[Open the live VitePress documentation](https://dhruvi0805.github.io/individual_portfolio_/)**
 
+**[Review 2 portfolio draft and project record](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html)** · [Case studies](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#selected-work) · [Résumé draft](https://dhruvi0805.github.io/individual_portfolio_/portfolio.html#resume-draft)
+
 ## Review 1 · Career research
 
 **Research question.** Which career direction best aligns my UX and product design skills with my goal of working across AI, technology, and business operations?
