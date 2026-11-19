@@ -91,10 +91,25 @@ export default defineConfig({
   color: #151515;
   font-size: clamp(24px, 6vw, 46px);
 }
+/* Keep the decorative art within the hero without moving its links or text. */
+.VPHome:has(.bauhaus-collage) {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.VPHome:has(.bauhaus-collage) > .VPHomeFeatures { order: 1; }
 @media (min-width: 960px) {
-  .VPHero .container { position: relative; }
   .VPHero .main { max-width: 53%; }
-  .bauhaus-collage { margin-top: 0; }
+  .VPHome > .vp-doc.container:has(.bauhaus-collage) {
+    position: absolute;
+    top: 132px;
+    right: max(48px, calc((100% - 1120px) / 2));
+    width: min(40%, 440px);
+    margin: 0;
+    padding: 0;
+    pointer-events: none;
+  }
+  .bauhaus-collage { margin: 0; }
 }
 `]],
   themeConfig: {
