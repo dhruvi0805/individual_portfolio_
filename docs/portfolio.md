@@ -50,7 +50,7 @@ description: Selected work in UX research, product design, and operations by Dhr
       <div class="dm-projects">
         <article class="dm-project">
           <div class="dm-cover dm-neuro" aria-hidden="true"><span>2 / 4 / 8 / 16</span></div>
-          <div class="dm-project-body"><h3>NeuroNet</h3><p class="dm-meta">Interaction design · Playable prototype</p><p>A five-question pattern game I built to explore immediate feedback and visible progress. Players see the rule after answering, and scores are saved in the current browser.</p><a href="https://dhruvi0805.github.io/IS218_Game/play/">Play NeuroNet ↗</a></div>
+          <div class="dm-project-body"><h3>NeuroNet</h3><p class="dm-meta">Interaction design · Playable prototype</p><p>A five-question pattern game I built to explore immediate feedback and visible progress. Players see the rule after answering, and scores are saved in the current browser.</p><a href="https://dhruvi0805.github.io/IS218_Game/play/" target="_blank" rel="noopener" aria-label="Play NeuroNet (opens in a new tab)">Play NeuroNet ↗</a></div>
         </article>
         <article class="dm-project">
           <div class="dm-cover dm-bench" aria-hidden="true"><span>Bench<br>&amp; Bolt</span></div>
