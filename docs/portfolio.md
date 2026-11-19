@@ -31,6 +31,20 @@ description: Selected work in UX research, product design, and operations by Dhr
         <span class="dm-spark dm-spark-small">✧</span>
       </div>
     </section>
+    <section class="dm-section" id="about-me" aria-labelledby="dm-about">
+      <h2 id="dm-about">About Me</h2>
+      <div class="dm-resume-grid">
+        <div>
+          <h3>Major: Human Computer Interaction</h3>
+          <p>Minor: Business<br></p>
+        </div>
+        <div>
+          <p>I work at the intersection of design, systems thinking, and operations analysis. I specialize in identifying inefficiencies in workflows and rebuilding processes from the ground up to make them more efficient, scalable, and intuitive.</p>
+          <p>I approach problems by first breaking down how a system actually functions, then redesigning it to remove friction and improve clarity. In previous roles, I've built and optimized Excel-based workflows and operational systems to streamline processes and improve day-to-day efficiency.</p>
+          <p>Alongside my operations experience, I bring a strong foundation in UX and product design, allowing me to translate complex systems into user-centered experiences. I'm particularly interested in roles in UX research, UX engineering, product design, and product/operations management where I can combine systems thinking with design to build better tools and workflows.</p>
+        </div>
+      </div>
+    </section>
     <section class="dm-section" id="selected-work" aria-labelledby="dm-projects">
       <h2 id="dm-projects">Selected work</h2>
       <div class="dm-projects">
