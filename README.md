@@ -42,3 +42,12 @@ Possible short stories to develop from real projects: a research finding that ch
 Run npm install and then npm run dev. Open the URL printed by VitePress. Run npm run build to verify the production build.
 
 In GitHub, set Settings → Pages → Source to GitHub Actions. The Pages workflow deploys pushes to main or can be run manually from Actions.
+
+## Visual alternatives in practice
+
+| Concept | Palette | Example on the career comparison page |
+| --- | --- | --- |
+| Bauhaus with subtle glass effects | Warm paper `#F7F3E8`, ink `#19212B`, cobalt `#2346C7`, and ochre `#E8AF30` | A strict grid places the three roles in aligned cards. Each card shows the role, a short requirement, and an employer source link in the same order. Use opaque paper behind text and reserve translucent glass for a small decorative header panel. |
+| 8-bit RPG | Midnight `#131B2E`, slate `#24324A`, cream `#FFF4D6`, mint `#74E0B5`, and gold `#FFD166` | A pixel-art map shows three destinations for the same roles. Selecting a destination highlights its corresponding role card. A visible list of role cards also gives readers direct access to each employer source. Use pixel lettering for map labels and a readable sans serif for the evidence. |
+
+Try the same review task with each concept: find one requirement for the Product Design role and open its employer posting. Record the first click and whether the reader needed a hint. The geometric layout remains the first prototype.
