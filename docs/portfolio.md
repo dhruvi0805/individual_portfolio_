@@ -1,91 +1,133 @@
-# Dhruvi Malusare
+---
+title: Dhruvi Malusare | Portfolio
+layout: false
+description: Selected work in UX research, product design, and operations by Dhruvi Malusare.
+---
 
-I study Human–Computer Interaction and business at NJIT. I’m looking for early-career work in UX research, product design, or AI-enabled operations. My work includes testing product decisions with users and building reporting and automation workflows for operations teams.
-
-[GitHub profile](https://github.com/dhruvi0805) · [LinkedIn and contact](https://www.linkedin.com/in/dhruvi-malusare/) · [Portfolio repository](https://github.com/dhruvi0805/individual_portfolio_) · [Résumé draft](#resume-draft)
-
-## Selected work
-
-<div class="work-preview">
-  <fieldset class="layout-options">
-    <legend>Presentation preview</legend>
-    <label><input type="radio" name="work-layout" value="editorial" checked> Retro Bauhaus</label>
-    <label><input type="radio" name="work-layout" value="quest"> 8-bit RPG</label>
-  </fieldset>
-  <div class="work-cases">
-    <article>
-      <h3>NeuroNet</h3>
-      <p><strong>Individual project · playable browser draft</strong></p>
-      <p>I built a five-question pattern practice game to explore how immediate explanations and visible progress support practice. Each answer shows the rule, and the attempt history uses browser storage.</p>
-      <p><strong>Check.</strong> I started the published demo and entered 32 for 2, 4, 8, 16. The game marked it correct and explained the doubling rule. Account-backed history and cross-device persistence still need a working implementation and checks.</p>
-      <p><a href="https://dhruvi0805.github.io/IS218_Game/play/">Play NeuroNet</a> · <a href="https://github.com/dhruvi0805/IS218_Game">Repository and project record</a></p>
-    </article>
-    <article>
-      <h3>Bench &amp; Bolt</h3>
-      <p><strong>Group project · in progress</strong></p>
-      <p>Our team is building a bike-repair inquiry workflow so a coordinator can see requests and decide what happens next. In my merged pull request, I documented the inquiry fields, status rules, and steps from intake to the coordinator queue. I own the planned SQLite persistence work.</p>
-      <p><strong>Check.</strong> The group evidence log records passing CI for PR #4. I still need to demonstrate that a saved inquiry appears in the queue after a restart.</p>
-      <p><a href="https://github.com/apink634/is218-bench-bolt">Group repository</a> · <a href="https://github.com/apink634/is218-bench-bolt/pull/4">My merged contribution</a> · <a href="https://github.com/apink634/is218-bench-bolt/pull/4/checks">PR checks</a></p>
-    </article>
-  </div>
+<div class="dm-portfolio" id="top">
+  <a class="dm-skip" href="#main-content">Skip to content</a>
+  <header class="dm-header">
+    <a class="dm-logo" href="#top" aria-label="Dhruvi Malusare, back to top">d.</a>
+    <nav class="dm-nav" aria-label="Portfolio navigation">
+      <a href="#selected-work">Projects</a>
+      <a href="#resume-draft">Résumé</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main id="main-content" tabindex="-1">
+    <section class="dm-hero" aria-labelledby="dm-name">
+      <div class="dm-intro">
+        <h1 id="dm-name"><span>Dhruvi</span><br>Malusare</h1>
+        <p>UX researcher and<br> product designer.</p>
+        <a class="dm-cta" href="#selected-work"><span aria-hidden="true">↗</span> See my work</a>
+      </div>
+      <div class="dm-art" aria-hidden="true">
+        <span class="dm-ribbon"></span>
+        <span class="dm-record"></span>
+        <span class="dm-polaroid dm-polaroid-back"><i></i></span>
+        <span class="dm-polaroid dm-polaroid-front"><i></i></span>
+        <span class="dm-camera"><i></i></span>
+        <span class="dm-spark">✦</span>
+        <span class="dm-spark dm-spark-small">✧</span>
+      </div>
+    </section>
+    <section class="dm-section" id="selected-work" aria-labelledby="dm-projects">
+      <h2 id="dm-projects">Selected work</h2>
+      <div class="dm-projects">
+        <article class="dm-project">
+          <div class="dm-cover dm-neuro" aria-hidden="true"><span>2 / 4 / 8 / 16</span></div>
+          <div class="dm-project-body"><h3>NeuroNet</h3><p class="dm-meta">Interaction design · Playable prototype</p><p>A five-question pattern game I built to explore immediate feedback and visible progress. Players see the rule after answering, and scores are saved in the current browser.</p><a href="https://dhruvi0805.github.io/IS218_Game/play/">Play NeuroNet ↗</a></div>
+        </article>
+        <article class="dm-project">
+          <div class="dm-cover dm-bench" aria-hidden="true"><span>Bench<br>&amp; Bolt</span></div>
+          <div class="dm-project-body"><h3>Bench &amp; Bolt</h3><p class="dm-meta">Systems design · Team project in progress</p><p>Our team is designing a workflow for bike-repair inquiries. I defined how requests move from intake to a coordinator’s queue, including the information captured and the rules for status changes.</p><a href="https://github.com/apink634/is218-bench-bolt/pull/4">View my contribution ↗</a></div>
+        </article>
+        <article class="dm-project">
+          <div class="dm-cover dm-money" aria-hidden="true"><span>Funny<br>Money</span></div>
+          <div class="dm-project-body"><h3>Funny Money</h3><p class="dm-meta">UX research · First place, SIGCHI Design Jam</p><p>I used 42 survey responses and two interviews to inform a Figma prototype that helps people discover activities within their budget and track what they spend.</p></div>
+        </article>
+      </div>
+    </section>
+    <section class="dm-section dm-resume" id="resume-draft" aria-labelledby="dm-resume">
+      <h2 id="dm-resume">Résumé</h2>
+      <div class="dm-resume-grid">
+        <div><h3>Education</h3><p><strong>New Jersey Institute of Technology</strong><br>B.S. Human–Computer Interaction, minor in Business<br>Expected May 2027 · GPA 3.97/4.00</p><h3>Skills</h3><p>UX research, usability testing, Figma, requirements gathering, workflow automation, Power BI, Excel, SQL, and Python.</p></div>
+        <div><h3>Experience</h3><ul>
+          <li><strong>Conduent · Strategic Operations Intern</strong><br>Built Power BI dashboards and automated audit reporting with Excel, Office Scripts, and Power Automate.</li>
+          <li><strong>Uplifty AI · UI/UX &amp; Product Management Intern</strong><br>Analyzed usability data, contributing to a 20% lift in adoption intent. Automated data entry, saving two hours daily.</li>
+          <li><strong>NJIT · New Student Orientation Lead Team</strong><br>Led 40 orientation leaders and supported 1,800+ students.</li>
+        </ul></div>
+      </div>
+    </section>
+    <section class="dm-section dm-contact" id="contact" aria-labelledby="dm-contact">
+      <h2 id="dm-contact">Let's talk<span aria-hidden="true">.</span></h2>
+      <p>I’m based in Newark, NJ, and interested in UX research, product design, and AI-enabled operations.</p>
+      <div class="dm-contact-links"><a href="https://www.linkedin.com/in/dhruvi-malusare/">Message me on LinkedIn ↗</a><a href="https://github.com/dhruvi0805">GitHub ↗</a></div>
+    </section>
+  </main>
 </div>
 
-## Résumé draft {#resume-draft}
-
-**Dhruvi Malusare** · Newark, NJ · [LinkedIn](https://www.linkedin.com/in/dhruvi-malusare/)
-
-**Education.** NJIT, B.S. in Human–Computer Interaction, Business minor, expected May 2027. GPA 3.97/4.00. Dean’s List since 2023, NJIT Student Staff of the Year 2025–2026, and first place at the SIGCHI Design Jam.
-
-- **Conduent · Strategic Operations Intern · June 2026–present.** Built Power BI dashboards for adoption, estimated savings, and costs. Automated audit reporting with Excel, Office Scripts, and Power Automate. Developed validation procedures for a 6,000-record employee roster.
-- **Uplifty AI · UI/UX & Product Management Intern · February–April 2026.** Analyzed usability and UAT data, contributing to a 20% lift in adoption intent. Automated data entry with Zapier, Google Sheets, and Apps Script, saving two hours daily.
-- **NJIT · New Student Orientation Lead Team · January 2025–January 2026.** Led 40 orientation leaders and supported 1,800+ students. Integrated spreadsheet tracking with Slate CRM to improve accuracy across 500+ records.
-- **Selected projects.** Funny Money placed first at the SIGCHI Design Jam after research with 42 survey respondents and two interviews. For NJIT library wayfinding, I conducted three interviews and ten contextual inquiries and designed an indoor navigation prototype.
-
-**Skills.** User research, usability testing, requirements gathering, process mapping, workflow automation, Excel, Power BI, Figma, SQL, and Python.
-
-## Review 2 check
-
-Try both presentation options using the same task. Find what I contributed to Bench & Bolt, open the merged change, then find where NeuroNet stores attempts. Record which layout made the evidence easier to find. Browser check: arrow keys switched between both previews and kept the same two case studies visible. The résumé anchor resolved. Peer retest and narrow-screen checks are pending.
-
-## Portfolio plan
-
-### Reader and experience
-
-My primary reader is an early-career UX or product design hiring manager. They should be able to scan a short case study and understand my contribution, the decision I made, and what changed after testing. An engineering reader should be able to find implementation constraints and verification. An operations reader should be able to trace a recommendation to the underlying evidence. A classmate reviewing this site should be able to open the original employer posting and challenge an assumption.
-
-### Visual alternatives
-
-- **Geometric editorial layout with restrained glass effects.** Use a structured grid, strong headings, and high-contrast evidence cards. Readers can scan roles and follow a source quickly.
-- **8-bit RPG-inspired layout.** Use a path map and pixel accents to encourage exploration. Keep familiar navigation labels so a reader can still find the comparison and sources. Avoid assigning numerical skill ratings without a defined basis.
-
-### Winning style — Retro Bauhaus
-
-I chose Retro Bauhaus for its clear hierarchy and the way the collage adds personality to a structured layout. The winning moodboard pairs oversized black type and a clean grid with overlapping vintage cameras, Polaroids, vinyl, film strips, checkerboard patterns, retro technology, and hand-drawn stars.
-
-Use pure white (`#FFFFFF`) for the page and cards, near-black (`#151515`) for type and structure, and cream (`#E9DCC8`) for soft shadows. Use dusty pink and mustard as occasional accents. Keep employer requirements, navigation, and source links aligned and easy to scan. Let the decorative composition overlap within the hero and stack below the text on narrow screens.
-
-A partner can check the layout by finding DoorDash’s AI-related responsibility, opening the employer source, and explaining why it matters.
-
-### Candidate stories
-
-Develop these prompts into examples from work I actually did:
-
-1. A research finding that changed a design decision.
-2. A prototype I revised after user feedback.
-3. A design tradeoff I worked through with an engineering or business partner.
-
-
 <style>
-.work-preview .layout-options { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 12px 0 20px; padding: 8px 0; }
-.work-preview .layout-options legend { font-weight: 650; }
-.work-preview .layout-options input { appearance: auto; margin-right: 5px; accent-color: #283d76; }
-.work-preview .layout-options input:focus-visible { outline: 2px solid #283d76; outline-offset: 3px; }
-.work-preview .work-cases { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
-.work-preview article { min-width: 0; padding: 16px; border: 1px solid #dedede; background: #fff; box-shadow: 0 9px 18px rgba(198, 168, 124, .25); }
-.work-preview article h3 { margin-top: 0; }
-.work-preview:has(input[value="quest"]:checked) .work-cases { grid-template-columns: minmax(0, 1fr); }
-.work-preview:has(input[value="quest"]:checked) article { background: #131b2e; color: #fff4d6; border: 3px solid #526a91; box-shadow: 4px 4px #24324a; }
-.work-preview:has(input[value="quest"]:checked) article h3 { font-family: monospace; color: #ffd166; }
-.work-preview:has(input[value="quest"]:checked) article a { color: #74e0b5; }
-@media (max-width: 640px) { .work-preview .work-cases { grid-template-columns: minmax(0, 1fr); } }
+.dm-portfolio { --ink: #151515; --cream-shadow: 0 16px 34px #b48d553c; color: var(--ink); background: #fff; font-family: Inter, Arial, sans-serif; }
+.dm-portfolio *, .dm-portfolio *::before, .dm-portfolio *::after { box-sizing: border-box; }
+.dm-portfolio a { color: inherit; }
+.dm-portfolio a:focus-visible { outline: 3px solid #344b96; outline-offset: 4px; }
+.dm-skip { position: fixed; z-index: 20; left: 1rem; top: 1rem; transform: translateY(-200%); padding: .6rem 1rem; background: #fff; }
+.dm-skip:focus { transform: none; }
+.dm-header { position: sticky; top: 14px; z-index: 10; height: 56px; margin: 14px clamp(18px, 4vw, 60px) 0; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; pointer-events: none; }
+.dm-header a { pointer-events: auto; text-decoration: none; }
+.dm-logo { justify-self: start; font-size: 39px; font-weight: 900; line-height: 1; letter-spacing: -.13em; }
+.dm-nav { display: flex; gap: 3px; align-items: center; border: 1px solid #dedbd5; padding: 4px; border-radius: 100px; background: #fffffff5; box-shadow: 0 6px 24px #9b754028; backdrop-filter: blur(12px); }
+.dm-nav a { font-size: .875rem; font-weight: 650; border-radius: 100px; padding: 8px 14px; white-space: nowrap; }
+.dm-nav a:first-child, .dm-nav a:hover { background: #151515; color: #fff; }
+.dm-hero { position: relative; isolation: isolate; overflow: hidden; width: min(100%, 1500px); min-height: clamp(435px, 44vw, 660px); margin: auto; display: grid; grid-template-columns: .95fr 1.05fr; align-items: center; padding: 36px clamp(24px, 7vw, 125px) 60px; }
+.dm-intro { position: relative; z-index: 2; }
+.dm-hero h1 { font-size: clamp(53px, 8.2vw, 135px); line-height: .84; letter-spacing: -.09em; font-weight: 900; }
+.dm-hero h1 span { display: inline-block; position: relative; }
+.dm-hero h1 span::after { content: ''; position: absolute; left: -8%; top: -14%; width: 115%; height: 126%; border: 1.4px solid currentColor; border-radius: 50%; transform: rotate(-11deg); pointer-events: none; }
+.dm-hero p { margin-top: 25px; font-size: clamp(19px, 2.4vw, 34px); line-height: 1.12; letter-spacing: -.045em; }
+.dm-cta { display: inline-flex; align-items: center; gap: 12px; margin-top: 26px; font-weight: 700; text-decoration: none; }
+.dm-cta span { display: grid; place-items: center; border-radius: 50%; width: 42px; height: 42px; color: white; background: var(--ink); font-size: 23px; }
+.dm-art { position: relative; align-self: center; width: 100%; aspect-ratio: 1.12; }
+.dm-art > span { position: absolute; display: block; }
+.dm-ribbon { width: 145%; height: 23%; top: 48%; left: -18%; border-radius: 48% 18% 42% 18%; transform: rotate(-25deg) skewX(-12deg); background: repeating-conic-gradient(#1a1919 0% 25%, #fff 0% 50%) 0 0 / 64px 64px; box-shadow: var(--cream-shadow); }
+.dm-record { width: 66%; aspect-ratio: 1; top: 31%; right: -14%; border-radius: 50%; transform: rotate(20deg); background: linear-gradient(130deg, transparent 27%, #8b857849 45%, transparent 56%), radial-gradient(circle, #161514 0 2%, #d9b89e 2.3% 24%, transparent 24.5%), repeating-radial-gradient(circle, #151515 0 2px, #282626 2px 3px); box-shadow: var(--cream-shadow); }
+.dm-polaroid { width: 32%; aspect-ratio: .84; padding: 4% 4% 8%; background: #fff; border: 1px solid #e5e0d8; box-shadow: var(--cream-shadow); }
+.dm-polaroid i { display: block; height: 100%; background: radial-gradient(circle at 72% 28%, #f2ce8c 0 12%, transparent 14%), linear-gradient(155deg, #a4bacb 0 53%, #8a895c 54% 68%, #505c47 69%); }
+.dm-polaroid-back { top: 0; right: 15%; transform: rotate(16deg); }
+.dm-polaroid-front { left: 0; top: 48%; transform: rotate(-14deg); }
+.dm-polaroid-front i { background: linear-gradient(28deg, #394757 0 24%, transparent 26%), linear-gradient(155deg, #9faec5, #d7ada0 62%, #58616d 63%); }
+.dm-camera { width: 53%; aspect-ratio: 1.52; top: 22%; left: 19%; transform: rotate(-12deg); border-radius: 10% 8% 9% 10%; background: linear-gradient(180deg,#c5bcb1 0 22%,#20201f 23% 86%,#9b928a 87% 100%); box-shadow: inset 0 0 0 2px #4c4640, var(--cream-shadow); }
+.dm-camera::before { content: ''; position: absolute; width: 29%; height: 14%; top: -10%; left: 30%; background: #44413c; border-radius: 5px 5px 0 0; }
+.dm-camera i { display: block; position: absolute; width: 51%; aspect-ratio: 1; top: 16%; left: 39%; border-radius: 50%; background: radial-gradient(circle at 43% 35%, #6d756b 0 5%, #283b3b 18%, #12171a 29%, #242323 36%, #807566 38%, #232321 42%, #111 58%, #55504a 60%, #171717 66%); box-shadow: 4px 6px 9px #0008; }
+.dm-spark { top: 1%; right: -6%; font-size: clamp(30px,5vw,82px); line-height: 1; }
+.dm-spark-small { left: 1%; top: 8%; font-size: clamp(24px,4vw,54px); transform: rotate(-12deg); }
+.dm-section { width: min(100% - clamp(40px, 12vw, 180px), 1240px); margin-inline: auto; padding: clamp(36px, 6vw, 88px) 0; border-top: 1px solid #dedbd5; scroll-margin-top: 85px; }
+.dm-section h2 { margin-bottom: 22px; font-weight: 850; font-size: clamp(40px, 6.2vw, 90px); line-height: .94; letter-spacing: -.075em; }
+.dm-section h3 { font-size: 1.42rem; font-weight: 800; letter-spacing: -.035em; }
+.dm-projects { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: clamp(12px, 2.3vw, 32px); }
+.dm-project { border: 1px solid #e7e3dd; box-shadow: 0 10px 24px #b48d5520; }
+.dm-project-body { padding: 18px; }
+.dm-project-body p { margin: 7px 0 12px; }
+.dm-project-body a, .dm-contact a { font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
+.dm-meta { color: #54504a; font-size: .84rem; }
+.dm-cover { display: grid; min-height: 175px; place-items: center; text-align: center; overflow: hidden; font-size: clamp(24px, 4vw, 54px); font-weight: 900; line-height: .86; letter-spacing: -.055em; }
+.dm-neuro { background: radial-gradient(ellipse at 55% 65%, #44226a, #141020 65%); color: #f0ddff; font-family: monospace; font-size: clamp(18px, 2.5vw, 36px); }
+.dm-bench { background: repeating-linear-gradient(-18deg, #e9af42 0 14px, #edbc5d 14px 28px); }
+.dm-bench span { transform: rotate(-7deg); }
+.dm-money { background: radial-gradient(ellipse at 50% 48%, #efb3c7 0 42%, #e68eae 43% 53%, #f0c6d4 54%); color: #182768; }
+.dm-money span { transform: rotate(-10deg); }
+.dm-resume-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: clamp(24px, 5vw, 72px); }
+.dm-resume-grid p, .dm-resume-grid li { margin: 8px 0 18px; }
+.dm-contact h2 span { color: #a13761; }
+.dm-contact-links { display: flex; flex-wrap: wrap; gap: 12px 23px; margin-top: 16px; }
+@media (max-width: 730px) {
+  .dm-hero { grid-template-columns: 1fr; min-height: auto; padding-top: 44px; padding-bottom: 24px; }
+  .dm-art { width: min(85%, 460px); margin: 14px auto 0; }
+  .dm-projects, .dm-resume-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 400px) {
+  .dm-header { grid-template-columns: 1fr auto; }
+  .dm-nav a { padding-inline: 9px; }
+}
 </style>
