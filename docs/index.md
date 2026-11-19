@@ -16,7 +16,7 @@ features:
     details: Three original postings, with source dates, requirements, and skill gaps.
     link: /employers
   - title: Portfolio plan
-    details: The intended reader, two layout concepts, and three story prompts.
+    details: The winning Retro Bauhaus design, intended reader, and three story prompts.
     link: /portfolio
   - title: Peer review
     details: A source-checking task and a record of review status.
@@ -25,3 +25,10 @@ features:
     details: Two programming concepts, the selected workflow, and a planned experiment.
     link: /creative-plan
 ---
+
+
+<div class="bauhaus-collage" aria-hidden="true">
+  <span class="bauhaus-record"></span>
+  <span class="bauhaus-print"></span>
+  <span class="bauhaus-star">✦</span>
+</div>
