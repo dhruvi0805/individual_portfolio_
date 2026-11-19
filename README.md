@@ -51,3 +51,13 @@ In GitHub, set Settings → Pages → Source to GitHub Actions. The Pages workfl
 | 8-bit RPG | Midnight `#131B2E`, slate `#24324A`, cream `#FFF4D6`, mint `#74E0B5`, and gold `#FFD166` | A pixel-art map shows three destinations for the same roles. Selecting a destination highlights its corresponding role card. A visible list of role cards also gives readers direct access to each employer source. Use pixel lettering for map labels and a readable sans serif for the evidence. |
 
 Try the same review task with each concept: find one requirement for the Product Design role and open its employer posting. Record the first click and whether the reader needed a hint. The geometric layout remains the first prototype.
+
+## Winning style — Retro Bauhaus
+
+I chose Retro Bauhaus for its clear hierarchy and the way the collage adds personality to a structured layout. The winning moodboard pairs oversized black type and a clean grid with overlapping vintage cameras, Polaroids, vinyl, film strips, checkerboard patterns, retro technology, and hand-drawn stars.
+
+Use pure white (`#FFFFFF`) for the page and cards, near-black (`#151515`) for type and structure, and cream (`#E9DCC8`) for soft shadows. Use dusty pink and mustard as occasional accents. Keep employer requirements, navigation, and source links aligned and easy to scan. Let the decorative composition overlap within the hero and stack below the text on narrow screens.
+
+A partner can check the layout by finding DoorDash’s AI-related responsibility, opening the employer source, and explaining why it matters.
+
+See the [VitePress portfolio plan](docs/portfolio.md#winning-style--retro-bauhaus) and [issue #3](https://github.com/dhruvi0805/individual_portfolio_/issues/3). The alternatives above document the earlier exploration.
