@@ -63,7 +63,10 @@ description: Selected work in UX research, product design, and operations by Dhr
       </div>
     </section>
     <section class="dm-section dm-resume" id="resume-draft" aria-labelledby="dm-resume">
-      <h2 id="dm-resume">Résumé</h2>
+      <div class="dm-resume-heading">
+        <h2 id="dm-resume">Résumé</h2>
+        <a class="dm-cta dm-resume-download" href="https://drive.google.com/file/d/10_pHhxFBIbTQ-n1xCYGfh-hUyLZqMB74/view?usp=sharing">Download Full Resume <span aria-hidden="true">↗</span></a>
+      </div>
       <div class="dm-resume-grid">
         <div><h3>Education</h3><p><strong>New Jersey Institute of Technology</strong><br>B.S. Human–Computer Interaction, minor in Business<br>Expected May 2027 · GPA 3.97/4.00</p><h3>Skills</h3><p>UX research, usability testing, Figma, requirements gathering, workflow automation, Power BI, Excel, SQL, and Python.</p></div>
         <div><h3>Experience</h3><ul>
@@ -131,6 +134,9 @@ description: Selected work in UX research, product design, and operations by Dhr
 .dm-bench span { transform: rotate(-7deg); }
 .dm-money { background: radial-gradient(ellipse at 50% 48%, #efb3c7 0 42%, #e68eae 43% 53%, #f0c6d4 54%); color: #182768; }
 .dm-money span { transform: rotate(-10deg); }
+.dm-resume-heading { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; margin-bottom: 22px; }
+.dm-resume-heading h2, .dm-resume-heading .dm-resume-download { margin: 0; }
+.dm-resume-heading .dm-resume-download { margin-inline-start: auto; }
 .dm-resume-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: clamp(24px, 5vw, 72px); }
 .dm-resume-grid p, .dm-resume-grid li { margin: 8px 0 18px; }
 .dm-contact h2 span { color: #a13761; }
